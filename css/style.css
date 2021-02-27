@@ -1,3 +1,18 @@
 .test-div {
 	text-align: center;
 }
+.test-div h1 {
+	color: green;
+}
+
+.test-div h3 {
+	color: blue;
+}
+.test-div h5 {
+	color: red;
+}
+
+p {
+	color: red;
+	font-size: 20px;
+}
